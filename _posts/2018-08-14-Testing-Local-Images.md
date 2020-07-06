@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Zach's Test Post
+title: Will's Test Post
 ---
 
-This is a test post. 
+This is a test post.
 
 To make a post, you must follow the naming convention shown for this file,
 with the data as the first part of the file name, seperated by dashes. Then
 the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+Finally, you must also keep the
 
 ```
 ---
 layout: post
-title: Zach's Test Post
+title: Will's Test Post
 ---
 ```
 
@@ -30,5 +30,5 @@ markdown-y things.
 ### Other things
 * Like
 * lists
-* and 
+* and
 * stuff
