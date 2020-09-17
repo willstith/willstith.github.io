@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Will Stith
-tagline:             An Even More Okay Data Science Blog
+tagline:             Memoirs of a Rookie Data Scientist
 url:                 http://willstith.github.io
 paginate:            2
 baseurl:             ""
